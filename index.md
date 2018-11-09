@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Ryan Han's CV
+title: Ryan Han
 ---
 # Ryan Han
 Statistics and Cognitive Science Undergraduate at University of Waterloo
